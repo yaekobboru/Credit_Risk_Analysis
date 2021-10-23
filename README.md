@@ -4,12 +4,12 @@
 
 This analysis evaluates machine learning models for predicting credit card risk(High/Low) with unbalanced classes and try to recommend which model to use.
 The models used are :-
-             * Naive Random Oversampling
-             * SMOTE Oversampling
-             * Undersampling 
-             * Combination Oversampling and Undersampling 
-             * Ensemble(Balanced Random Forest Classifier) 
-             * Easy Ensemble AdaBoost Classifier
+* Naive Random Oversampling
+* SMOTE Oversampling
+* Undersampling 
+* Combination Oversampling and Undersampling 
+* Ensemble(Balanced Random Forest Classifier) 
+* Easy Ensemble AdaBoost Classifier
 Credit card credit dataset from LendingClub, a peer-to-peer lending services company, is used using imbalanced-learn and
 scikit-learn libraries to build and evaluate models to predict credit risk and evaluate performance of the models.
 
